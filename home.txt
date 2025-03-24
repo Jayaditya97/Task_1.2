@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the first version of home.txt
+=======
+This is modified version of home.txt on branch2
+>>>>>>> branch2
